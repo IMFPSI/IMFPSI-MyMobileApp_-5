@@ -1,4 +1,4 @@
-name: Android CI
+name: CI Test &amp; Deploy
 
 on:
   push:
