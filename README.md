@@ -4,4 +4,4 @@
 GitHub.
 Глущенко Дмитро 5 варіант
 
-Цей файл створений у новій гілці feature_integration_student5
+Цей файл створений у новій гілці feature_student5_newfeature, v1.5
